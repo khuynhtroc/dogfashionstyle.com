@@ -5,22 +5,22 @@ description: "I will take you on the fabulous world of exploration. Travel, cult
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://dogfashionstyle.com'
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-F2BS085CHY'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: huynhnt135@gmail.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Huynh Darius
+    display_name: Huynh
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: huynhnt135@gmail.com
+    web: 
+    twitter: https://twitter.com/huynhtroc
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
