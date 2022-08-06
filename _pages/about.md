@@ -72,3 +72,6 @@ Dogs are often shown in movies dressed up in clothing and costumes. This reflect
 In the Disney film Beverly Hills Chihuahua, a family of chihuahuas portray small dogs wearing fashionable clothes including sunglasses, hats, shirts, dresses, jeweled collars, and bandanas. In one scene, a wedding takes place between two dogs where the female dog wears a bridal gown and the male dog groom wears a tuxedo.
 
 In the Disney film Zootopia, anthropomorphic animals are depicted in the intro sequence as being bare without clothing.
+
+
+***From Wikipedia, the free encyclopedia
