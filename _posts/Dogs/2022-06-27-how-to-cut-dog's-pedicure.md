@@ -5,7 +5,7 @@ summary: Nail trimming is an important part of keeping your dog's pedicure neat 
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
-image: assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-1.jpg.webp
+image: assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-1.JPEG
 beforetoc: "Nail trimming is an important part of keeping your dog's pedicure neat and clean. This also helps to keep floors and furniture free from scratches. Long toenails can easily break, cause bleeding or can grow back into the foot and cause pain. Too long toenails can also make it difficult to move the dog."
 toc: true
 rating: 5
@@ -15,19 +15,19 @@ permalink: /dogs/how-to-cut-dog's-pedicure.html
 
 ## 1. Get your dog used to being held
 
-![Trim a Dog's Nails Step 1]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-1.jpg.webp)
+![Trim a Dog's Nails Step 1]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-1.JPEG)
 
 ### 1.1 Choose the right time. 
 
 Most dogs don't like to have their toenails trimmed, so choose a time when they are relaxing. If the dog is playing, wait until it lies down, then approach it to train it to get used to being held.
 
-![Trim a Dog's Nails Step 2]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-2.jpg.webp)
+![Trim a Dog's Nails Step 2]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-2.JPEG)
 
 ### 1.2 Keep the dog's feet gently. 
 
 Start by slowly touching its legs. If the dog is unresponsive, give it a gentle massage and press on its toenails. Depending on your dog's age and personality, it may take a few tries before he gets used to it. Repeat the exercise several times a day until the dog is no longer responding to being held on.
 
-![Trim a Dog's Nails Step 3]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-3.jpg.webp)
+![Trim a Dog's Nails Step 3]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-3.JPEG)
 
 ### 1.3 Teach your dog to lie on his side when pruning his nails if necessary. 
 
@@ -35,7 +35,7 @@ If your dog has had a bad impression of nail pruning, he probably won't let you 
 - Let your dog lie on his side when you train him in handshake exercises to trim his nails.
 - You can also trim the claws while the dog is standing without lifting the paw. Use this method only if you are more experienced in nail cutting. [first]
 
-![Trim a Dog's Nails Step 4]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-4.jpg.webp)
+![Trim a Dog's Nails Step 4]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-4.JPEG)
 
 ### 1.4 Check for foot abnormalities.
 
@@ -49,14 +49,14 @@ When you are massaging your feet and toenails, take the opportunity to check on 
 
 ## 2. Trim your nails
 
-![Trim a Dog's Nails Step 5]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-5.jpg.webp)
+![Trim a Dog's Nails Step 5]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-5.JPEG)
 
 ### 2.1 Use dog-specific nail clippers. 
 
 Human nail clippers are designed for a flat surface, but dog paws are different. Using human nail clippers can cause the nail to bruise, causing pain or injury to your dog. There are different types of dog claw trimming, but the most common is a straight cut (U-shaped) or a "scissors" cut. Choosing which method to cut depends on the cutter.
 - The "scissors" cut is usually easier to apply, since you do not have to press the surface of the forceps against the nail.
 
-![Trim a Dog's Nails Step 6]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-6.jpg.webp)
+![Trim a Dog's Nails Step 6]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-6.JPEG)
 
 ### 2.2 Locate the pink area. 
 
@@ -65,14 +65,14 @@ The pink area is a part of the toenail that contains many blood vessels and nerv
 - If the dog has dark claws, this area is hard to see. Carefully prune little by little to avoid trimming it. You can ask your dog care worker or veterinarian to show you how long you should be to cut.
 - If your dog's claws grow too long, the pink area will develop. Regular nail trimming will return the pink area to its original length.
 
-![Trim a Dog's Nails Step 7]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-7.jpg.webp)
+![Trim a Dog's Nails Step 7]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-7.JPEG)
 
 ### 2.3 Keep the dog still. 
 
 If your dog is used to being restrained, just lay it down and prune its claws. If your dog is constantly moving, gently use the elbows and arms that are holding the dog's paws to keep it lying down.
 - If you have an extremely active dog, ask someone for help. Ask a friend to hold the dog so you can focus on trimming the claws.
 
-![Trim a Dog's Nails Step 8]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-8.jpg.webp)
+![Trim a Dog's Nails Step 8]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-8.JPEG)
 
 ### 2.4 Start with the hind legs. 
 
@@ -81,20 +81,20 @@ The hind nails are usually shorter and easier to trim. Dogs tend to be more tole
 - Be careful when pruning near the pink area and stop when 2-3 mm from the pink area.
 - Don't forget to trim your nails if you have one. Some dogs will have claws on the inside of their legs, above the "pastern." 
 
-![Trim a Dog's Nails Step 9]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-9.jpg.webp)
+![Trim a Dog's Nails Step 9]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-9.JPEG)
 
 ### 2.5 Stop bleeding if you cut the pink area. 
 
 Cutting off the pink area often causes a lot of bleeding, the dog may yell for pain or bite you back in defense. If your hand bleeds, cover your toenails with a tissue and hold for a few minutes. If the bleeding still doesn't stop, use cornstarch or hemostatic powder. You can dip the dog's feet in the powder or use your hand to apply a large amount of powder to the wound.
 - If the bleeding doesn't stop after 10 minutes, call your veterinarian.
 
-![Trim a Dog's Nails Step 10]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-10.jpg.webp)
+![Trim a Dog's Nails Step 10]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-10.JPEG)
 
 ### 2.6 Praise your dog often. 
 
 Give your dog lots of encouragement, and if possible, a little food can be a great incentive to stay still. Praise your dog for every pedicure and enjoy his food every time he has one paw trimmed.
 
-![Trim a Dog's Nails Step 11]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/v4-728px-Firm-Up-Your-Dog's-Stool-Step-11.jpg.webp)
+![Trim a Dog's Nails Step 11]({{ site.url }}/assets/images/blog/dogs/how-to-cut-dog's-pedicure/how-to-cut-dog's-pedicure-11.JPEG)
 
 ### 2.7 File your nails if you want. 
 
