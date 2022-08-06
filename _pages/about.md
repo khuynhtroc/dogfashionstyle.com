@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dog Clothes Fashion Trends 
+title: Dog Clothes Fashion Trends & Ideas
 permalink: /about
 comments: false
 image: assets/images/cover-about-dogfashionstyle.jpg
