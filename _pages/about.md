@@ -3,7 +3,7 @@ layout: page
 title: Dog Clothes Fashion Trends 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/cover-about-dogfashionstyle.jpg
 imageshadow: true
 ---
 
@@ -74,4 +74,4 @@ In the Disney film Beverly Hills Chihuahua, a family of chihuahuas portray small
 In the Disney film Zootopia, anthropomorphic animals are depicted in the intro sequence as being bare without clothing.
 
 
-***From Wikipedia, the free encyclopedia
+***From Wikipedia, the free encyclopedia***
